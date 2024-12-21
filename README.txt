@@ -1,1 +1,1 @@
-This is Message Score! One of the best messaging systems. It will support chatting with people from all over via email. You can compose messages and do video calls!
+
